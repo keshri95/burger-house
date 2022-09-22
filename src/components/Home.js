@@ -1,3 +1,4 @@
+import Items from "./Items";
 import Navbar from "./Navbar";
 import Section from "./Section";
 
@@ -17,7 +18,7 @@ function Home() {
         </div>
       </div>
 
-      
+      <Items />
     </>
   );
 }
