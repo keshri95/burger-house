@@ -4,7 +4,7 @@ function Navbar() {
       <nav class="navbar navbar-expand-lg bg-light">
         <div class="container">
           <nav class="navbar bg-light">
-            <div class="container ">
+            <div class="container">
               <a class="navbar-brand" href="#">
                 <img
                   src="https://www.burgerking.in/static/media/logo.d0829240.png"
