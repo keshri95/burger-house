@@ -7,53 +7,53 @@ function Login() {
           <p className="fs-2">BOOK YOUR TABLE</p>
         </div>
         <form>
-          <div class="row justify-content-center">
-            <div class="col-4">
+          <div className="row justify-content-center">
+            <div className="col-4">
               <input
                 type="text"
-                class="form-control"
+                className="form-control"
                 placeholder="First name"
                 aria-label="First name"
               />
             </div>
-            <div class="col-4">
+            <div className="col-4">
               <input
                 type="text"
-                class="form-control"
+                className="form-control"
                 placeholder="Last name"
                 aria-label="Last name"
               />
             </div>
           </div>
-          <div class="row justify-content-center mt-4">
-            <div class="col-4">
+          <div className="row justify-content-center mt-4">
+            <div className="col-4">
               <input
                 type="text"
-                class="form-control"
+                className="form-control"
                 placeholder="First name"
                 aria-label="First name"
               />
             </div>
-            <div class="col-4">
+            <div className="col-4">
               <input
                 type="text"
-                class="form-control"
+                className="form-control"
                 placeholder="Last name"
                 aria-label="Last name"
               />
             </div>
           </div>
-          <div class="row justify-content-center mt-4">
-            <div class="col-4">
+          <div className="row justify-content-center mt-4">
+            <div className="col-4">
               <input
                 type="text"
-                class="form-control"
+                className="form-control"
                 placeholder="First name"
                 aria-label="First name"
               />
             </div>
-            <div class="col-4">
-              <div class="d-grid gap-2 mx-auto">
+            <div className="col-4">
+              <div className="d-grid gap-2 mx-auto">
                 <button className="btn btn-danger">FIND A TABLE</button>
               </div>
             </div>

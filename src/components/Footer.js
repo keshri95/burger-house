@@ -26,11 +26,11 @@ function Footer() {
           <div className="col-6">
             <div className="text-end flex-column">
               <p>
-                <i class="fa-solid fa-location-pin"></i>MAIN ROAD, BUILDING
+                <i className="fa-solid fa-location-pin"></i>MAIN ROAD, BUILDING
                 NAME, COUNTRY
               </p>
               <p>
-                <i class="fa-solid fa-message"></i>INFO@COMPANYNAME.COM
+                <i className="fa-solid fa-message"></i>INFO@COMPANYNAME.COM
               </p>
             </div>
           </div>
@@ -43,16 +43,16 @@ function Footer() {
 
           <div>
             <a href="#">
-              <i class="fa-brands fa-square-instagram"></i>
+              <i className="fa-brands fa-square-instagram"></i>
             </a>
             <a href="#">
-              <i class="fa-brands fa-square-facebook"></i>
+              <i className="fa-brands fa-square-facebook"></i>
             </a>
             <a href="#">
-              <i class="fa-brands fa-square-twitter"></i>
+              <i className="fa-brands fa-square-twitter"></i>
             </a>
             <a href="#">
-              <i class="fa-brands fa-square-whatsapp"></i>
+              <i className="fa-brands fa-square-whatsapp"></i>
             </a>
           </div>
         </div>
